@@ -1,3 +1,3 @@
 # Book List App
 
-This is a simple app built in ES5 and ES6
+An app which can store/delete a list of book in localstorage- built in ES5-ES6
